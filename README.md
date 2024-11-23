@@ -1,6 +1,6 @@
 # <h1> DataManipulation101 </h1>
 
-<h2> This repository will go through detailed examples of how you can use the pandas and numpy librery to manuplate and organise your data-set based on 
+<h2> This repository will go through detailed examples of how you can use the pandas and numpy librery to process and organise your data-set based on 
 your needs 
 .</h2>
 
